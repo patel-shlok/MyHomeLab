@@ -38,6 +38,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wazuh-4F5F23?&style=for-the-badge&logo=Wazuh&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sysmon-4B275F?&style=for-the-badge&logo=Sysmon&logoColor=white" />
+    
 </div>
 
 ### SIEM
@@ -48,8 +49,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<a href="https://coursera.org/share/a7592005aa4648a7edc7e8a7e7ab2090"><img src="https://img.shields.io/badge/-Google%Cybersecurity%Professional%2B-FF0000?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-AI%for%Cybersecurity%2B-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://coursera.org/share/a7592005aa4648a7edc7e8a7e7ab2090"><img src="https://img.shields.io/badge/-Google%Cybersecurity%Professional%2B-0072b1?&style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-AI%for%Cybersecurity%2B-4B275F?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/shlokpatel03"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ## Projects
