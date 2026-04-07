@@ -1,15 +1,14 @@
 # MyHomeLab
 This repository serves as a technical showcase for a multi-node Cybersecurity Home Lab designed to simulate enterprise-grade network traffic and implement professional-level security monitoring. The project focuses on high-fidelity telemetry analysis, custom alerting, and vulnerability management within a virtualized environment.
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Shlok Patel
+<a href="https://www.linkedin.com/in/shlokpatel03"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Cybersecurity Master’s student at UMBC (GPA 3.89) with hands-on experience in SOC operations, SIEM (Splunk/ELK), Threat Detection, and Incident Response.
+Built and operated virtualized SIEM labs, conducted Vulnerability Assessments, and remediated 38+ security issues through attack simulations.
+Seeking SOC Analyst / Security Analyst internships or entry-level roles to protect systems, investigate alerts, and grow as a Blue Team professional.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
+To leverage my Master of Science in Cybersecurity and hands-on experience in threat detection to protect organizational assets. I am eager to transition my academic knowledge and laboratory experience into a professional Security Operations Center (SOC) as a Tier 1 Analyst, where I can contribute to investigating alerts and managing incident response workflows.
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
