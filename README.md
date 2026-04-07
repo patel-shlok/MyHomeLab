@@ -43,13 +43,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    
 </div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Google-Cybersecurity-Professional%2B-FF0000?&style=for-the-badge&logoColor=white" />
+<a href="https://coursera.org/share/a7592005aa4648a7edc7e8a7e7ab2090"><img src="https://img.shields.io/badge/-Google-Cybersecurity-Professional%2B-FF0000?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-AI-for-Cybersecurity%2B-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
