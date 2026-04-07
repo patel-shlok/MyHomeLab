@@ -42,9 +42,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    
 </div>
 
 ## Certifications
@@ -58,5 +57,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Home Lab: Virtualized SIEM & Threat Detection Architected a multi-node lab to ingest Windows Event IDs (4648, 4670, 4688) for telemetry analysis.Created custom Wazuh correlation rules to reduce false-positive alerting noise.
+- Cybersecurity Internship: Attack Simulation & Monitoring Documented incident response procedures for 15 simulated attacks.Structured Indicators of Compromise (IOCs) in STIX format for threat intelligence use cases.
